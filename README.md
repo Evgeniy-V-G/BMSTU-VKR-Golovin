@@ -92,3 +92,4 @@ Evgeii Golovin  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 ## Исполнитель проекта
 
 - [Евгений Головин]([golovin1410@gmail.com](mailto:golovin1410@gmail.com)) — DataScientist - student
+![логотип BMSTU](https://edu.bmstu.ru/local/templates/edu_bauman/images/logo_blue.png)
